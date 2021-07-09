@@ -1,0 +1,21 @@
+Type: Compendium
+Package: tutoRials
+Title: My R Tutorials as a dockerized container
+Version: 0.0.1
+Authors@R: 
+    person(given = "Ani",
+           family = "Ruhil",
+           role = c("aut", "cre"),
+           email = "ruhil@ohio.edu")
+Description: Ani's R Tutorials
+License: MIT + file LICENSE
+Depends: 
+    ggforce,
+    hrbrthemes,
+    patchwork,
+    tidycensus,
+    tidyverse
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/aniruhil/tutoRials
+BugReports: https://github.com/aniruhil/tutoRials/issues
